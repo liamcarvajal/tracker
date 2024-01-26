@@ -3,5 +3,7 @@ Nutrition Tracker
 Demo:
 
 
-https://github.com/liamcarvajal/tracker/assets/145726448/0b5b95db-5a12-4a43-a2a0-052abc467032
+
+https://github.com/liamcarvajal/tracker/assets/145726448/63b8b88c-7697-4eec-9fd0-e0a4aa17974c
+
 
