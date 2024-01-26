@@ -1,3 +1,3 @@
 Nutrition Tracker
 
-Demo:
+Demo: https://liamcarvajal.github.io/tracker/
